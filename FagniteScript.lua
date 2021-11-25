@@ -143,5 +143,5 @@ tab:Toggle('Fast Guns', function(value) _G.fastFire = value end)
 tab:Toggle('Automatic Guns', function(value) _G.autoGuns = value end)
 tab:Banner('Credits', {
     Scripting = "BluntMan420#4200";
-    ["Discord"] = "BluntMan420#4200,
+    ["Discord"] = "BluntMan420#4200";
 })

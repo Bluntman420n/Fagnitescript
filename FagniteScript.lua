@@ -121,9 +121,9 @@ local window = {} do
     function window.new(name)
         local main = Material.Load({
             Title = name;
-            Style = 1;
+            Style = 3;
 
-            Theme = 'Jester';
+            Theme = 'Dark';
             SizeX = 300;
             SizeY = 320;
         })
